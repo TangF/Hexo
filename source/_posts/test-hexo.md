@@ -1,6 +1,11 @@
 ---
 title: 'MarkDown写作规范'
 date: 2018/8/2 14:52:25
+# 作者信息，多作者则设置为数组
+# 单作者
+author: 
+  nick: Viola
+  link: https://www.github.com/BruceYuj
 tags:
   总结
 ---
